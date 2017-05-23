@@ -4,7 +4,7 @@
 
 Antes de começar a aula, abraçe um dicionário de inglês... Brincadeira, por enquanto o tradutor do google vai te ajudar (fácil fácil), mas recomendo estudar inglês também, irá te auxiliar muito.
 
-Antigamente (muito antigamente) o programdor não tinha que se preocupar tanto em questões de boas práticas, teorias, e ferramentas de mercado, focando mais e uma linguagem, ou em conhecimentos técnicos, mas hoje em dia, várias dessas coisas, são o minimo que se espera de um programador, como:
+Antigamente (muito antigamente) o programador não tinha que se preocupar tanto em questões de boas práticas, teorias, e ferramentas de mercado, focando mais e uma linguagem, ou em conhecimentos técnicos, mas hoje em dia, várias dessas coisas, são o minimo que se espera de um programador, como:
 
 Versionamento de código ([git](https://git-scm.com/), svn) que envolvem conceitos como:
 - Integração diária;
